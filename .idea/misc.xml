@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ledez/Desktop/Java/ExamenAndroid/app/src/main/res/drawable/background_reservation.xml" value="0.125" />
+        <entry key="..\:/Users/ledez/Desktop/Java/ExamenAndroid/app/src/main/res/drawable/btn.xml" value="0.125" />
+        <entry key="..\:/Users/ledez/Desktop/Java/ExamenAndroid/app/src/main/res/drawable/btn_cancel.xml" value="0.125" />
+        <entry key="..\:/Users/ledez/Desktop/Java/ExamenAndroid/app/src/main/res/drawable/button.xml" value="0.125" />
+        <entry key="..\:/Users/ledez/Desktop/Java/ExamenAndroid/app/src/main/res/drawable/card_date_reservation.xml" value="0.123" />
+        <entry key="..\:/Users/ledez/Desktop/Java/ExamenAndroid/app/src/main/res/drawable/popup.xml" value="0.123" />
+        <entry key="..\:/Users/ledez/Desktop/Java/ExamenAndroid/app/src/main/res/font/opensans.xml" value="0.23148148148148148" />
+        <entry key="..\:/Users/ledez/Desktop/Java/ExamenAndroid/app/src/main/res/layout-mdpi/activity_main.xml" value="0.6432584269662921" />
+        <entry key="..\:/Users/ledez/Desktop/Java/ExamenAndroid/app/src/main/res/layout-xhdpi/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/ledez/Desktop/Java/ExamenAndroid/app/src/main/res/layout-xxhdpi/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/ledez/Desktop/Java/ExamenAndroid/app/src/main/res/layout-xxxhdpi/activity_main.xml" value="0.11509562841530055" />
+        <entry key="..\:/Users/ledez/Desktop/Java/ExamenAndroid/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ledez/Desktop/Java/ExamenAndroid/app/src/main/res/layout/coordinatlayout.xml" value="0.1435436690346845" />
+        <entry key="..\:/Users/ledez/Desktop/Java/ExamenAndroid/app/src/main/res/layout/popup.xml" value="0.1435436690346845" />
+        <entry key="..\:/Users/ledez/Desktop/Java/ExamenAndroid/app/src/main/res/layout/toolbar.xml" value="0.33" />
+        <entry key="..\:/Users/ledez/Desktop/Java/ExamenAndroid/app/src/main/res/menu/navbar.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
